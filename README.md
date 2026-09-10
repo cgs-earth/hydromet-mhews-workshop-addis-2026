@@ -56,6 +56,28 @@ Develop country-specific roadmaps identifying the technical, operational, and in
 
 This repository contains the presentations and supporting resources used during the workshop, allowing participants to access the materials both during and after the training.
 
+#DAY 1 - September 14, 2026
+
+## Session 2 —  Group activity on hydrometeorological data flow.
+
+**Date:** September 14, 2026  
+**Time:** 13:45 – 15:15  
+
+This interactive session will give participants an opportunity to **reflect on their current hydrometeorological data systems**. Participants will map where they work within the data flow-from **data collection and transmission to storage, processing, sharing, and use**-and identify where they see the **greatest opportunities for improvement** and the **main challenges, delays, or vulnerabilities**.
+
+The session will conclude with a group discussion to identify **common patterns, challenges, and opportunities across countries**. 
+
+The presentation below provides instructions for the interactive exercise.
+
+### Presentation
+
+[Access the Session 2 presentation]()
+
+
+### Presentation
+
+[Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
+
 ## Session 8 — HydroServer–WIS2Box Data Workflows and Data Readiness for the Pilot
 
 **Date:** September 16, 2026  
@@ -68,7 +90,7 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 [Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
 
 
-## Session 9 — Working with Existing and New Environmental Data Management Systems
+## Session 9 - Working with Existing and New Environmental Data Management Systems
 
 **Date:** September 16, 2026  
 **Time:** 11:00–12:30  
@@ -83,7 +105,7 @@ The session will also provide time for discussion, allowing participants to iden
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
 
-## Session 10 — Refining Your Pilot for MHEWS Under El Niño
+## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
 **Date:** September 16, 2026  
 **Time:** 13:45 – 15:15   
@@ -92,11 +114,13 @@ This interactive session gives participants dedicated time to **continue develop
 
 Participants will then consider the needs of a **priority user** and assess whether the proposed pilot can provide the information they need in time to support decision-making. Finally, they will **stress-test the pilot using a high-impact rainfall event during an El Niño year**, identify potential weaknesses in the workflow, and revise the pilot based on what they have learned during the workshop.
 
+The presentation below provides instructions for the interactive exercise.
+
 ### Presentation
 
 [Access the Session 10 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
-## Sessions 12 & 13 — Discussion: Long-Term Sustainability and Scalability
+## Sessions 12 & 13 - Discussion: Long-Term Sustainability and Scalability
 
 **Date:** September 17, 2026  
 **Time:** 09:00 – 12:30  
