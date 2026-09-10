@@ -90,7 +90,11 @@ The presentation below provides instructions for the interactive exercise.
 
 
 
+<hr style="border: none; border-top: 1px solid #dddddd;">
+
 ### 🍽️ Lunch Break — 12:30 – 13:45
+
+<hr style="border: none; border-top: 1px solid #dddddd;">
 
 
 
