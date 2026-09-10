@@ -58,7 +58,7 @@ This repository contains the presentations and supporting resources used during 
 
 # Day 1 — September 14, 2026
 
-## Session 2 —  Group activity on hydrometeorological data flow.
+## Session 2 —  Group activity on hydrometeorological data flow
 
 **Date:** September 14, 2026  
 **Time:** 13:45 – 15:15  
