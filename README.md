@@ -88,10 +88,9 @@ The session will also provide time for discussion, allowing participants to iden
 **Date:** September 16, 2026  
 **Time:** 13:45 – 15:15   
 
-This interactive session gives participants dedicated time to **refine their country-specific pilot use cases**, building on the technical training and discussions from the previous sessions. Participants will focus on a **priority dataset**, map how the data will move through existing systems and HydroServer and/or WIS2Box, and consider whether the proposed workflow can deliver the information needed by a **priority user**. :contentReference[oaicite:0]{index=0}
+This interactive session gives participants dedicated time to **continue developing and refining their country-specific pilot use cases**, building on the technical training and discussions from the workshop. Participants will focus on a **priority dataset** and design a simple data workflow showing how their existing systems and **HydroServer and/or WIS2Box** could work together as part of the pilot.
 
-Participants will then **stress-test their pilot using a high-impact rainfall event in an El Niño year**, identifying potential weaknesses in the proposed workflow and determining what should be tested or changed. The exercise concludes with participants revising their pilot based on what they have learned and considering the practical steps needed for implementation. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
-
+Participants will then consider the needs of a **priority user** and assess whether the proposed pilot can provide the information they need in time to support decision-making. Finally, they will **stress-test the pilot using a high-impact rainfall event during an El Niño year**, identify potential weaknesses in the workflow, and revise the pilot based on what they have learned during the workshop.
 
 ### Presentation
 
