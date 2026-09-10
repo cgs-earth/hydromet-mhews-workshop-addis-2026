@@ -64,6 +64,22 @@ This repository contains the presentations and supporting resources used during 
 
 # Day 1 - September 14, 2026
 
+### 09:00 – 10:40
+
+- **Opening remarks**
+
+  *Dr. Fetene Teshome*, Ethiopian Meteorological Institute (EMI)  
+  *Mr. Habtemaryam Tilahun*, Hydrology and Basin Information  
+  *Ms. Anasthasia Agyemang*, U.S. Embassy in Ethiopia  
+  *Mr. Washington Otieno*, Regional Office for Africa (RAF), World Meteorological Organization (WMO)  
+  *Dr. Caroline Staub*, Center for Geospatial Solutions (CGS)
+
+- **Partner and delegation introductions**
+
+- **Key outcomes and lessons from the Entebbe workshop and follow-up consultations**
+
+- **Workshop agenda and objectives**
+
 ## Session 1 - Multi-Hazard Early Warning Systems (MHEWS): Objectives, Workflows, and Operational Challenges
 
 **Date:** September 14, 2026  
@@ -72,6 +88,8 @@ This repository contains the presentations and supporting resources used during 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
 
 The session will also include insights from **Dr. Okoth Kabaka** ([IGAD Climate Prediction and Applications Centre – ICPAC](https://www.icpac.net/)).
+
+### ☕ Break — 10:40 – 11:00  
 
 ## Session 2 -  Group activity on hydrometeorological data flow
 
@@ -139,6 +157,7 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 
 [Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
 
+### ☕ Break — 10:40 – 11:00
 
 ## Session 9 - Working with Existing and New Environmental Data Management Systems
 
@@ -172,6 +191,8 @@ The presentation below provides instructions for the interactive exercise.
 ### Presentation
 
 [Access the Session 10 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+
+### ☕ Break — 15:15 – 15:35
 
 <br>
 
