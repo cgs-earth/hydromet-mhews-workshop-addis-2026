@@ -92,7 +92,9 @@ The presentation below provides instructions for the interactive exercise.
 
 **Date:** September 14, 2026  
 
-This session will include a guest presentation by **Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. Participants will check that they can access their [HydroServer accounts](https://hydroserver.org/user-guides/how-to/creating-user-accounts.html) and Google accounts, open the training materials and exercise code, and make sure everything is ready for the hands-on sessions the following day.
+This session will include a guest presentation by **Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. 
+
+After, participants will check that they can access their [HydroServer accounts](https://hydroserver.org/user-guides/how-to/creating-user-accounts.html) and Google accounts required for the HydroServer training. They will also open the training materials and exercise code to ensure everything is ready for the hands-on sessions the following day.
 
 <br>
 
