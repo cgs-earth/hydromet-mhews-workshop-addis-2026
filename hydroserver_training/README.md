@@ -274,7 +274,7 @@ The exercise is provided as a **Jupyter Notebook** and can be run using Google C
 
 👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/kenya/Exercise4/HydroServer_Exercise4.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise5/HydroServer_Exercise5.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise4/HydroServer_Exercise4.ipynb)
 
 👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/uganda/Exercise4/HydroServer_Exercise4.ipynb)
 
