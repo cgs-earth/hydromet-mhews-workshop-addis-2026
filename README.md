@@ -88,15 +88,11 @@ The presentation below provides instructions for the interactive exercise.
 
 [Access the Session 2 presentation]()
 
-<br>
 
-<hr style="border: none; border-top: 1px solid #E8E8E8;">
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
-<hr style="border: none; border-top: 1px solid #E8E8E8;">
 
-<br>
 
 ## Session 3 - Guest Presentation and Preparation for Day 2
 
@@ -155,19 +151,14 @@ This session explores some of the **meteorological and hydrological data managem
 
 The session will also provide time for discussion, allowing participants to identify the **data sources, integration needs, and potential challenges** they anticipate when connecting HydroServer and WIS2Box with their existing data management systems.
 
+The session will also include a presentation from **Dr. Jemal S. Ahmed (CIAT)**.
+
 ### Presentation
 
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
-<br>
-
-<hr style="border: none; border-top: 1px solid #E8E8E8;">
-
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
-<hr style="border: none; border-top: 1px solid #E8E8E8;">
-
-<br>
 
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
@@ -201,15 +192,8 @@ These discussion-based sessions will focus on the **long-term sustainability and
 
 **After the workshop, we will share the discussion notes with participants.**
 
-<br>
-
-<hr style="border: none; border-top: 1px solid #E8E8E8;">
-
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
-<hr style="border: none; border-top: 1px solid #E8E8E8;">
-
-<br>
 
 ### Key Takeaways and Closing
 
