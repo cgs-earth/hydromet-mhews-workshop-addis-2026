@@ -62,9 +62,9 @@ This repository contains the presentations and supporting resources used during 
 
 <br>
 
-# Day 1 — September 14, 2026
+# Day 1 - September 14, 2026
 
-## Session 2 —  Group activity on hydrometeorological data flow
+## Session 2 -  Group activity on hydrometeorological data flow
 
 **Date:** September 14, 2026  
 **Time:** 13:45 – 15:15  
@@ -85,7 +85,7 @@ The presentation below provides instructions for the interactive exercise.
 
 <br>
 
-# Day 2  — September 15, 2026
+# Day 2  - September 15, 2026
 
 ## Sessions 4a–7a — HydroServer Training
 
@@ -104,7 +104,7 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 <br>
 
-# Day 3 — September 16, 2026
+# Day 3 - September 16, 2026
 
 ## Session 8 — HydroServer–WIS2Box Data Workflows and Data Readiness for the Pilot
 
@@ -153,7 +153,7 @@ The presentation below provides instructions for the interactive exercise.
 
 <br>
 
-# Day 4 — September 1, 2026
+# Day 4 - September 17, 2026
 
 ## Sessions 12 & 13 - Discussion: Long-Term Sustainability and Scalability
 
