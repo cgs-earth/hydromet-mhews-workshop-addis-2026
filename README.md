@@ -73,7 +73,17 @@ The presentation below provides instructions for the interactive exercise.
 
 [Access the Session 2 presentation]()
 
-# Day 2 — September 15, 2026
+## Sessions 4a–7a — HydroServer Training
+
+**Date:** September 15, 2026  
+**Time:** 09:00–17:30  
+
+These sessions introduce participants to **HydroServer** through a combination of presentations and hands-on exercises. Participants will learn how to manage hydrological monitoring data in HydroServer, including loading historical and real-time data, performing quality control, and retrieving data programmatically. The sessions will also explore automated data ingestion and job orchestration, both within HydroServer and through external tools and workflows.
+
+### Training Materials
+
+[Access the HydroServer Training Materials](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/hydroserver_training)
+
 
 # Day 3 — September 16, 2026
 
