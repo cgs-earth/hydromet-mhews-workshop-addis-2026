@@ -89,13 +89,7 @@ The presentation below provides instructions for the interactive exercise.
 [Access the Session 2 presentation]()
 
 
-
-<hr style="border: none; height: 1px; background-color: rgba(150, 160, 170, 0.18);">
-
-### 🍽️ Lunch Break — 12:30 – 13:45
-
-<hr style="border: none; height: 1px; background-color: rgba(150, 160, 170, 0.18);">
-
+## 🍽️ Lunch Break — 12:30 – 13:45
 
 
 ## Session 3 - Guest Presentation and Preparation for Day 2
