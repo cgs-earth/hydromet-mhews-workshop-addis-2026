@@ -85,6 +85,8 @@ The presentation below provides instructions for the interactive exercise.
 
 <br>
 
+# Day 2  — September 15, 2026
+
 ## Sessions 4a–7a — HydroServer Training
 
 **Date:** September 15, 2026  
@@ -115,11 +117,6 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 
 [Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
 
-<br>
-
----
-
-<br>
 
 ## Session 9 - Working with Existing and New Environmental Data Management Systems
 
@@ -134,11 +131,6 @@ The session will also provide time for discussion, allowing participants to iden
 
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
-<br>
-
----
-
-<br>
 
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
@@ -160,6 +152,8 @@ The presentation below provides instructions for the interactive exercise.
 ---
 
 <br>
+
+# Day 4 — September 1, 2026
 
 ## Sessions 12 & 13 - Discussion: Long-Term Sustainability and Scalability
 
