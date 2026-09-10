@@ -130,7 +130,7 @@ After, participants will check that they can access their [HydroServer accounts]
 ## Sessions 4a–7a — HydroServer Training
 
 **Date:** September 15, 2026  
-**Time:** 09:00–17:30  
+**Time:** 08:00–17:30  
 
 These sessions introduce participants to **HydroServer** through a combination of presentations and hands-on exercises. Participants will learn how to manage hydrological monitoring data in HydroServer, including loading historical and real-time data, performing quality control, and retrieving data programmatically. The sessions will also explore automated data ingestion and job orchestration, both within HydroServer and through external tools and workflows.
 
@@ -205,7 +205,7 @@ The presentation below provides instructions for the interactive exercise.
 ## Sessions 12 & 13 - Discussion: Long-Term Sustainability and Scalability
 
 **Date:** September 17, 2026  
-**Time:** 09:00 – 12:30  
+**Time:** 09:00 – 12:30 *(with a coffee break from 10:40 – 11:00)*
 
 These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
 
