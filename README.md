@@ -94,4 +94,13 @@ Participants will then consider the needs of a **priority user** and assess whet
 
 ### Presentation
 
-[Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+[Access the Session 10 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+
+## Sessions 12 & 13 — Discussion: Long-Term Sustainability and Scalability
+
+**Date:** September 17, 2026  
+**Time:** 09:00 – 12:30  
+
+These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
+
+**After the workshop, we will share the discussion notes with participants.**
