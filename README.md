@@ -71,7 +71,7 @@ This repository contains the presentations and supporting resources used during 
 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
 
-The session will also include insights from Dr. Okoth Kabaka ([IGAD Climate Prediction and Applications Centre – ICPAC](https://www.icpac.net/)).
+The session will also include insights from **Dr. Okoth Kabaka** ([IGAD Climate Prediction and Applications Centre – ICPAC](https://www.icpac.net/)).
 
 ## Session 2 -  Group activity on hydrometeorological data flow
 
@@ -92,7 +92,7 @@ The presentation below provides instructions for the interactive exercise.
 
 **Date:** September 14, 2026  
 
-This session will include a **guest presentation by Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. Participants will check that they can access their [HydroServer accounts](https://hydroserver.org/user-guides/how-to/creating-user-accounts.html) and Google accounts, open the training materials and exercise code, and make sure everything is ready for the hands-on sessions the following day.
+This session will include a guest presentation by **Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. Participants will check that they can access their [HydroServer accounts](https://hydroserver.org/user-guides/how-to/creating-user-accounts.html) and Google accounts, open the training materials and exercise code, and make sure everything is ready for the hands-on sessions the following day.
 
 <br>
 
