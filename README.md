@@ -56,6 +56,12 @@ Develop country-specific roadmaps identifying the technical, operational, and in
 
 This repository contains the presentations and supporting resources used during the workshop, allowing participants to access the materials both during and after the training.
 
+<br>
+
+---
+
+<br>
+
 # Day 1 — September 14, 2026
 
 ## Session 2 —  Group activity on hydrometeorological data flow
@@ -73,6 +79,12 @@ The presentation below provides instructions for the interactive exercise.
 
 [Access the Session 2 presentation]()
 
+<br>
+
+---
+
+<br>
+
 ## Sessions 4a–7a — HydroServer Training
 
 **Date:** September 15, 2026  
@@ -84,6 +96,11 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 [Access the HydroServer Training Materials](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/hydroserver_training)
 
+<br>
+
+---
+
+<br>
 
 # Day 3 — September 16, 2026
 
@@ -98,6 +115,11 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 
 [Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
 
+<br>
+
+---
+
+<br>
 
 ## Session 9 - Working with Existing and New Environmental Data Management Systems
 
@@ -108,11 +130,15 @@ This session explores some of the **meteorological and hydrological data managem
 
 The session will also provide time for discussion, allowing participants to identify the **data sources, integration needs, and potential challenges** they anticipate when connecting HydroServer and WIS2Box with their existing data management systems.
 
-
 ### Presentation
 
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
+<br>
+
+---
+
+<br>
 
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
@@ -128,6 +154,12 @@ The presentation below provides instructions for the interactive exercise.
 ### Presentation
 
 [Access the Session 10 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+
+<br>
+
+---
+
+<br>
 
 ## Sessions 12 & 13 - Discussion: Long-Term Sustainability and Scalability
 
