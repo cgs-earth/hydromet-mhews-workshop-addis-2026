@@ -66,3 +66,18 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 ### Presentation
 
 [Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
+
+
+## Session 9 — Working with Existing and New Environmental Data Management Systems
+
+**Date:** September 16, 2026  
+**Time:** 11:00–12:30  
+
+This session explores some of the **meteorological and hydrological data management systems currently used by participating countries**. We will look at potential data integration workflows, including examples of **AQUARIUS–HydroServer** and **Climsoft–WIS2Box** integration.
+
+The session will also provide time for discussion, allowing participants to identify the **data sources, integration needs, and potential challenges** they anticipate when connecting HydroServer and WIS2Box with their existing data management systems.
+
+
+### Presentation
+
+[Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
