@@ -155,7 +155,7 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 
 ### Presentation
 
-[Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
+[Access the Session 8 presentation]([https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit](https://canva.link/j52i14owqbc8fca))
 
 ### ☕ Break — 10:40 – 11:00
 
@@ -172,7 +172,7 @@ The session will also include a presentation from **Dr. Jemal S. Ahmed (CIAT)**.
 
 ### Presentation
 
-[Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+[Access the Session 9 presentation](https://canva.link/qzs8ekk6y4qr5of)
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
@@ -190,7 +190,7 @@ The presentation below provides instructions for the interactive exercise.
 
 ### Presentation
 
-[Access the Session 10 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+[Access the Session 10 presentation]([https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit](https://canva.link/kgjql549mjjlv01))
 
 ### ☕ Break — 15:15 – 15:35
 
