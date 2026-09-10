@@ -71,11 +71,7 @@ This repository contains the presentations and supporting resources used during 
 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
 
-The session will also include insights from Dr. Okoth Kabaka (IGAD Climate Prediction and Applications Centre – ICPAC).
-
-### Presentation
-
-[Access the Session 2 presentation]()
+The session will also include insights from Dr. Okoth Kabaka ([IGAD Climate Prediction and Applications Centre – ICPAC](https://www.icpac.net/)).
 
 ## Session 2 -  Group activity on hydrometeorological data flow
 
