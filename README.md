@@ -20,9 +20,9 @@ The workshop aims to support participating NMHSs in defining practical pathways 
 During the workshop, participants will:
 
 - Explore open-source and interoperable hydrometeorological data systems.
-- Gain hands-on experience with **HydroServer** and **WIS2Box**.
+- Gain hands-on experience with HydroServer and WIS2Box.
 - Ingest, manage, visualize, query, and perform quality control on hydrometeorological data.
-- Explore the publication, discovery, and exchange of data through **WIS2** and **WHOS**, where appropriate.
+- Explore the publication, discovery, and exchange of data through WIS2 and WHOS, where appropriate.
 - Assess how new platforms can work alongside existing national data management systems.
 - Deisng and test end-to-end data workflows using country-relevant use cases.
 - Assess manual and telemetry data readiness for pilot implementation.
