@@ -88,9 +88,16 @@ The presentation below provides instructions for the interactive exercise.
 
 [Access the Session 2 presentation]()
 
+---
+
+### 🍽️ Lunch Break — 12:30 – 13:45
+
+---
+
 ## Session 3 - Guest Presentation and Preparation for Day 2
 
-**Date:** September 14, 2026  
+**Date:** September 14, 2026
+**Time:** 15:35 – 17:00   
 
 This session will include a guest presentation by **Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. 
 
@@ -148,6 +155,11 @@ The session will also provide time for discussion, allowing participants to iden
 
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
+---
+
+### 🍽️ Lunch Break — 12:30 – 13:45
+
+---
 
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
@@ -180,3 +192,22 @@ The presentation below provides instructions for the interactive exercise.
 These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
 
 **After the workshop, we will share the discussion notes with participants.**
+
+---
+
+### 🍽️ Lunch Break — 12:30 – 13:45
+
+---
+
+### Key Takeaways and Closing
+
+- Key takeaways
+- Next steps
+- Post-workshop evaluation
+- Concluding remarks
+
+**Closing remarks by:**
+
+- **Mr. Washington Otieno**, WMO Regional Office for Africa
+- **Mr. Habtemariam Tilahun**, Hydrology and Basin Information
+- **Dr. Fetene Teshome**, Ethiopian Meteorological Institute (EMI)
