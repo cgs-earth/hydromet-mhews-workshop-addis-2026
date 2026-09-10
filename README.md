@@ -203,6 +203,8 @@ This interactive session will bring together the **lessons learned throughout th
 
 Participants will also discuss **shared lessons, next steps after the workshop, and opportunities for continued collaboration**.
 
+You can access the Pilot Revision Worksheet for guidance [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Pilot_Revision_Worksheet.docx).
+
 **After the workshop, we will share the discussion notes with participants.**
 
 <br>
