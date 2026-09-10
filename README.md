@@ -40,7 +40,7 @@ Review lessons from the Entebbe workshop, discuss current hydrometeorological da
 Parallel hands-on training on HydroServer and WIS2Box, covering system architecture, data management, metadata, data ingestion, quality control, querying, publication, and data access.
 
 **Day 3 – Data Readiness and System Integration**  
-Explore manual and telemetry data readiness, WIS2–HydroServer data workflows, integration with existing data management systems, APIs, security requirements, and potential implementation approaches.
+Explore manual and telemetry data readiness, WIS2-HydroServer data workflows, integration with existing data management systems, APIs, security requirements, and potential implementation approaches.
 
 **Day 4 – Country Implementation Roadmaps**  
 Develop country-specific roadmaps identifying the technical, operational, and institutional steps needed to move from pilot testing toward sustainable implementation.
