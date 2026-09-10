@@ -77,10 +77,6 @@ The presentation below provides instructions for the interactive exercise.
 
 # Day 3 — September 16, 2026
 
-### Presentation
-
-[Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit)
-
 ## Session 8 — HydroServer–WIS2Box Data Workflows and Data Readiness for the Pilot
 
 **Date:** September 16, 2026  
