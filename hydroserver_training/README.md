@@ -130,13 +130,13 @@ The Python exercise is provided as a **Jupyter Notebook**.
 
 You can access and run **Exercise 1** here using Google Colab:
 
-👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise1/HydroServer_Exercise1_Kenya.ipynb)
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 1](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/kenya/Exercise1/HydroServer_Exercise1_Kenya.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 1](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 1](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Ethiopia.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/ethiopia/Exercise1/HydroServer_Exercise1_Ethiopia.ipynb)
 
 If you do not have a google account, you can access the exercises through Binder:
 
@@ -180,13 +180,13 @@ This exercise will guide you through creating the monitoring site and datastream
 
 You can access and run **Exercise 2** here using Google Colab:
 
-👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise2/HydroServer_Exercise2_Kenya.ipynb)
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 2](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/kenya/Exercise2/HydroServer_Exercise2_Kenya.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise2/HydroServer_Exercise2_Rwanda.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 2](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise2/HydroServer_Exercise2_Rwanda.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise2/HydroServer_Exercise2_Uganda.ipynb)
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 2](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/uganda/Exercise2/HydroServer_Exercise2_Uganda.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise2/HydroServer_Exercise2_Ethiopia.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 2](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/ethiopia/Exercise2/HydroServer_Exercise2_Ethiopia.ipynb)
 
 > **Note:** For **Rwanda and Ethiopia**, you do not need to create a new monitoring site because the data used in Exercise 2 come from the same physical monitoring location, the **Kanzenze Hydrological Station**, used in Exercise 1.
 >
@@ -238,13 +238,13 @@ Using Python and the [**hydroserverpy**](https://pypi.org/project/hydroserverpy/
 
 The exercise is provided as a **Jupyter Notebook** and can be run using Google Colab.
 
-👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise3/HydroServer_Exercise3.ipynb)
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 3](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/kenya/Exercise3/HydroServer_Exercise3.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise3/HydroServer_Exercise3.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 3](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise3/HydroServer_Exercise3.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise3/HydroServer_Exercise3.ipynb)
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 3](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/uganda/Exercise3/HydroServer_Exercise3.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise3/HydroServer_Exercise3.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 3](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/ethiopia/Exercise3/HydroServer_Exercise3.ipynb)
 
 If you do not have a Google account, you can access the exercise through Binder:
 
@@ -272,13 +272,13 @@ This exercise demonstrates an **externally managed ETL workflow**, where the Pyt
 
 The exercise is provided as a **Jupyter Notebook** and can be run using Google Colab.
 
-👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise4/HydroServer_Exercise4.ipynb)
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/kenya/Exercise4/HydroServer_Exercise4.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise4/HydroServer_Exercise4.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise5/HydroServer_Exercise5.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise4/HydroServer_Exercise4.ipynb)
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/uganda/Exercise4/HydroServer_Exercise4.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise4/HydroServer_Exercise4.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 4](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/ethiopia/Exercise4/HydroServer_Exercise4.ipynb)
 
 If you do not have a Google account, you can access the exercise through Binder:
 
@@ -309,13 +309,13 @@ Unlike the custom Python ETL workflow used in Exercise 4, HydroServer ETL Tasks 
 
 The exercise is provided as a **Jupyter Notebook** and can be opened using Google Colab.
 
-👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise5/HydroServer_Exercise5.ipynb)
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 5](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/kenya/Exercise5/HydroServer_Exercise5.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise5/HydroServer_Exercise5.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 5](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/rwanda/Exercise5/HydroServer_Exercise5.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise5/HydroServer_Exercise5.ipynb)
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 5](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/uganda/Exercise5/HydroServer_Exercise5.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise5/HydroServer_Exercise5.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 5](https://colab.research.google.com/github/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/hydroserver_training/ethiopia/Exercise5/HydroServer_Exercise5.ipynb)
 
 If you do not have a Google account, you can access the exercise through Binder:
 
