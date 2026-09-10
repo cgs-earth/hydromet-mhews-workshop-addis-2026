@@ -88,11 +88,15 @@ The presentation below provides instructions for the interactive exercise.
 
 [Access the Session 2 presentation]()
 
----
+<br>
+
+<hr style="border: none; border-top: 1px solid #E8E8E8;">
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
----
+<hr style="border: none; border-top: 1px solid #E8E8E8;">
+
+<br>
 
 ## Session 3 - Guest Presentation and Preparation for Day 2
 
@@ -155,11 +159,15 @@ The session will also provide time for discussion, allowing participants to iden
 
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
 
----
+<br>
+
+<hr style="border: none; border-top: 1px solid #E8E8E8;">
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
----
+<hr style="border: none; border-top: 1px solid #E8E8E8;">
+
+<br>
 
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
@@ -193,11 +201,15 @@ These discussion-based sessions will focus on the **long-term sustainability and
 
 **After the workshop, we will share the discussion notes with participants.**
 
----
+<br>
+
+<hr style="border: none; border-top: 1px solid #E8E8E8;">
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
 
----
+<hr style="border: none; border-top: 1px solid #E8E8E8;">
+
+<br>
 
 ### Key Takeaways and Closing
 
