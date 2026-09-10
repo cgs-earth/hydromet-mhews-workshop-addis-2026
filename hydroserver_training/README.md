@@ -1,0 +1,325 @@
+# HydroServer v2 Training
+
+**Workshop: Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems**
+
+This repository contains the materials for the [HydroServer2](https://hydroserver.org/) training to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, as part of the Workshop **"Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems"** for the National Hydrological Services of Uganda, Rwanda, Ethiopia, and Kenya. 
+
+The HydroServer training will take place on **September 15, 2026, from 8:00 AM to 5:30 PM**. It will consist of four sessions of approximately 1 hour and 30 minutes each, with 20-minute breaks between sessions and a lunch break from 12:30 PM to 1:45 PM.
+
+These training materials were developed by **Sara Alonso Vicario** at the **Center for Geospatial Solutions, Lincoln Institute of Land Policy.**
+
+**Training Structure**
+
+The training will consist of a **presentation followed by interactive, hands-on exercises** that we will work through together during the session. 
+
+The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package. You can learn more about hydroserverpy in the [official documentation](https://pypi.org/project/hydroserverpy/)
+
+In this repository, each country has its own folder containing subfolders for Exercises 1 through 5. Each exercise folder includes the Python code and, when applicable, the sample data needed to complete the exercise.
+
+**Contact us**
+
+- To contact the HydroServer developers, email: jeff.horsburgh@usu.edu
+- To contact the trainers for this workshop, email: svicario@lincolninst.edu
+
+# Information about each session
+
+# Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options 
+
+**Tuesday, September 15, 2026 | 09:00 – 10:40**
+
+### Session Overview
+
+This first session provides an **introduction to HydroServer**. We will cover:
+
+- **What HydroServer is**.
+- **HydroServer architecture** and its main components.
+- **Deployment options**, including cloud and on-premises deployments.
+- **Step-by-step deployment examples using Google Cloud and Docker.** Due to time constraints, we will not complete these deployments during the session, but the instructions will be available for you to follow after the training.
+- **Production deployment and operational considerations** ideas for running your own HydroServer instance.
+- **The HydroServer data model** and how monitoring data are structured and organized.
+
+We will go through this [Presentation](https://canva.link/zpbfj5kay6dlxnf) together.
+
+### Interactive Exercise: Map Your Monitoring Data to HydroServer
+
+Working with the other participants from your country, you will map the **monitoring site metadata and time-series metadata** you shared before the training to the **HydroServer data model**.
+
+Together, you will identify how your existing monitoring data correspond to HydroServer elements such as **Monitoring Sites (Things), Datastreams, Sensors, Observed Properties, Units, and Processing Levels**.
+
+By the end of the exercise, each country will have an example showing **how its existing monitoring data can be structured using the HydroServer data model**.
+
+After completing this exercise, you will understand the **structure and relationships of the HydroServer data model** and be ready to move from the mapping you created by hand to **creating the corresponding monitoring sites and datastreams in HydroServer**.
+
+### Instructions
+
+1. **Work with your country team.**
+
+2. You will receive a set of cards containing the **HydroServer metadata properties** for a monitoring site, such as:
+   - `name`
+   - `sampling_feature_code`
+   - `site_type`
+   - `latitude`
+   - `longitude`
+   - `elevation_m`
+   - `admin_area_1`
+   - `country`
+
+3. For each HydroServer property, identify the corresponding information in the **sample monitoring site data from your country**.
+
+4. On the paper provided, write the **value for your monitoring station**.
+
+   For example:
+
+   **HydroServer property:** `sampling_feature_code`  
+   **Your station value:** `259501`
+
+5. Place your value next to the corresponding **HydroServer property card on the wall**.
+
+6. Continue until your team has mapped all the available metadata for your monitoring site.
+
+7. As a group, review your mapping and identify:
+   - Metadata that maps directly to a HydroServer property.
+   - Metadata that you do not have.
+   - Metadata from your existing system that does not have an obvious HydroServer property.
+
+Once completed, the wall will represent **your monitoring site using the HydroServer data model**.
+
+
+# Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations
+
+**Tuesday, September 15, 2026 | 11:00 – 12:30**
+
+### Session Overview
+
+In this session, you will learn how to get started with HydroServer through a practical exercise (Exercise 1). You will work through the main steps required to set up your workspace and upload historical stage data to HydroServer:
+
+- Create a **workspace**
+- Add a **monitoring site**
+- Create a **datastream**
+- Upload **historical observations**
+
+The presentation uses **Rwanda** as an example, where we will upload historical stage data from the **Kanzenze station** covering the period from **1971 to 2015**. The stage data for this station were obtained from the [Rwanda Water Resources Portal](https://waterportal.rwb.rw/index.php/location_ng_info/259501). 
+
+The exercises for the other countries follow the same structure; the only difference is that they use sample data specific to each country. You can find your country's sample data in the `Exercise1/data/` folder. This is the data you shared with us prior to the workshop.
+
+> **Note for Ethiopia:** As I did not have access to Ethiopian data prior to the workshop, the Ethiopia exercise uses the same sample dataset and workflow as the Rwanda exercise.
+
+**When running the exercise code, please run each cell only once and avoid running the same cell multiple times. If your session gets disconnected, simply click Reconnect and continue from where you left off. Do not rerun cells that you have already executed.**
+
+### What you will create
+
+During the exercise, you will create:
+
+- A **workspace** where you can manage your data.
+- A **monitoring site** representing the physical location where measurements are collected.
+- A **datastream** containing metadata about the instrument and the measurements collected at the monitoring site.
+- **Observations** corresponding to the historical measurements contained in the CSV file.
+
+For each step, we will demonstrate how the same task can be performed using:
+
+- The **HydroServer Data Management App** in the [HydroServer Playground](https://playground.hydroserver.org/browse).
+- The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically. The package is called [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/).
+
+### Follow the presentation
+
+We will go through this [Presentation](https://canva.link/f2owvli9thlogdi) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
+
+### Access Exercise 1
+
+The Python exercise is provided as a **Jupyter Notebook**.
+
+You can access and run **Exercise 1** here using Google Colab:
+
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise1/HydroServer_Exercise1_Kenya.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Ethiopia.ipynb)
+
+If you do not have a google account, you can access the exercises through Binder:
+
+👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+
+# Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control
+
+**Tuesday, September 15, 2026 | 13:45 – 15:15**
+
+### Session Overview
+
+In this session, you will continue working with real data in HydroServer through a practical exercise. However, instead of using code, you will use applications developed by the HydroServer team to facilitate data ingestion and quality control.
+
+You will learn the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control. These tools are particularly useful when you want to interact with HydroServer without programming.
+
+The steps you will follow are:
+
+- Upload observations using the **Streaming Data Loader**
+- **Visualize observations** and explore summary statistics
+- Perform **Quality Control (QC)** on your observations
+
+The exercise for this session (Exercise 2) is the same for all countries. We will use the current telemetry data from the **Kanzenze Hydrological Station** in Rwanda, which was also used as an example in Exercise 1.
+
+### What you will do
+
+During this session, you will:
+
+- Create a **monitoring site** (Kenya and Uganda) and a new **datastream** to receive observations.
+- Configure the **Streaming Data Loader** to automatically upload new observations to HydroServer whenever the CSV file is updated.
+- **Visualize your observations** in HydroServer and explore summary statistics such as the mean, median, and standard deviation.
+- Use the **HydroServer Quality Control (QC) App** to review and edit your observations.
+
+### Follow the presentation
+
+We will go through this [Presentation](https://canva.link/5f4ruvvkpd94652) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
+
+### Access Exercise 2
+
+This exercise will guide you through creating the monitoring site and datastream needed to load observations using the Streaming Data Loader. You will see that the process is very similar to the workflow you followed in Exercise 1. The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
+
+You can access and run **Exercise 2** here using Google Colab:
+
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise2/HydroServer_Exercise2_Kenya.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise2/HydroServer_Exercise2_Rwanda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise2/HydroServer_Exercise2_Uganda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise2/HydroServer_Exercise2_Ethiopia.ipynb)
+
+> **Note:** For **Rwanda and Ethiopia**, you do not need to create a new monitoring site because the data used in Exercise 2 come from the same physical monitoring location, the **Kanzenze Hydrological Station**, used in Exercise 1.
+>
+> For **Kenya and Uganda**, you will need to create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
+
+You can access and run **Exercise 2** here using Binder:
+
+👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+Then, we will use the data uploaded to HydroServer to perform quality control on the observations. The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
+
+**Continuation of Exercise 2**: During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations for reviewing and correcting selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
+
+# Session 7a - Querying Data and Automating Data Ingestion in HydroServer
+
+**Wednesday, September 16, 2026 | 15:35 – 17:30**
+
+### Session Overview
+
+In this session, you will learn how to **query data from HydroServer programmatically** and explore different approaches for **automating data ingestion workflows** using the [hydroserverpy](https://pypi.org/project/hydroserverpy/) Python package.
+
+You will work through three practical exercises:
+
+- **Exercise 3:** Query metadata and observations from HydroServer.
+- **Exercise 4:** Build a custom Python ETL pipeline to ingest GEOGLOWS streamflow forecasts.
+- **Exercise 5:** Configure HydroServer-managed ETL Tasks for automated data ingestion.
+
+Together, these exercises demonstrate how to retrieve data from HydroServer and how external data sources can be connected to HydroServer using both **externally managed** and **HydroServer-managed** automation workflows.
+
+### Follow the Presentation
+
+We will go through this [Presentation](https://canva.link/5gkof1x3mb7e8pt) together step by step.
+
+You can refer back to the presentation after the training to review the key concepts and exercise steps.
+
+## Exercise 3: Querying Data from HydroServer
+
+In Exercise 3, you will learn how to **query metadata and observations stored in HydroServer**.
+
+In particular, you will retrieve the real-time stage data that you uploaded using the [Streaming Data Loader](https://hydroserver.org/user-guides/how-to/using-streaming-data-loader) and quality-controlled using the [HydroServer QC App](https://hydroserver.org/user-guides/how-to/quality-controlling-data.html) in Session 6a.
+
+Using Python and the [**hydroserverpy**](https://pypi.org/project/hydroserverpy/) package, you will:
+
+- Retrieve information about your **Workspace, monitoring sites, and datastreams**.
+- Retrieve observations from a specific Datastream.
+- Access and explore your **quality-controlled observations programmatically**.
+
+### Access Exercise 3
+
+The exercise is provided as a **Jupyter Notebook** and can be run using Google Colab.
+
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise3/HydroServer_Exercise3.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise3/HydroServer_Exercise3.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise3/HydroServer_Exercise3.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise3/HydroServer_Exercise3.ipynb)
+
+If you do not have a Google account, you can access the exercise through Binder:
+
+👉 [**Access Exercise 3 with Binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+
+## Exercise 4: Building a Custom ETL Pipeline for Automated Data Ingestion
+
+In Exercise 4, you will learn how to build a **custom ETL (Extract, Transform, Load) pipeline in Python** to retrieve data from an external source and load it into HydroServer.
+
+For this exercise, we will use the **GEOGLOWS River Forecast System (RFS)** as our external data source and retrieve the latest streamflow forecast for a selected river reach.
+
+Using `hydroserverpy`, you will:
+
+- Connect to the **GEOGLOWS API**.
+- **Extract** the latest streamflow forecast.
+- **Transform** the data returned by the API.
+- **Map** the forecast values to a HydroServer Datastream.
+- **Load** the observations into HydroServer.
+- Explore how the ETL pipeline can be scheduled using an external job orchestration tool, such as **Windows Task Scheduler or GitHub Actions**.
+
+This exercise demonstrates an **externally managed ETL workflow**, where the Python ETL pipeline and its schedule are managed outside HydroServer.
+
+### Access Exercise 4
+
+The exercise is provided as a **Jupyter Notebook** and can be run using Google Colab.
+
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise4/HydroServer_Exercise4.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise4/HydroServer_Exercise4.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise4/HydroServer_Exercise4.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 4](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise4/HydroServer_Exercise4.ipynb)
+
+If you do not have a Google account, you can access the exercise through Binder:
+
+👉 [**Access Exercise 4 with Binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+## Exercise 5: Automating Data Ingestion with HydroServer ETL Tasks
+
+In Exercise 5, you will explore a second approach to automation: **HydroServer-managed ETL Tasks**.
+
+Instead of managing the ETL pipeline and its schedule externally, HydroServer can manage the automated ingestion workflow through its **Job Orchestration system**.
+
+You will learn how to:
+
+- Create a reusable **Data Connection** to an external data source.
+- Use placeholders to make the Data Connection reusable for different locations.
+- Create an **ETL Task** that connects the Data Connection to a HydroServer Datastream.
+- Map source variables to the appropriate target Datastream.
+- Define how often the ETL Task should run.
+- View the configured Data Connection and ETL Task through the **Job Orchestration** interface in the HydroServer Web Dashboard.
+
+Unlike the custom Python ETL workflow used in Exercise 4, HydroServer ETL Tasks include their own **job orchestration and scheduling**. Therefore, an external scheduler such as Windows Task Scheduler or GitHub Actions is not required.
+
+> **Note:** The public HydroServer Playground allows us to create and configure the Data Connection and ETL Task, but it does not currently execute automated ETL Tasks. Running these tasks requires a deployed HydroServer instance with the ETL orchestration system enabled.
+>
+> During the training, we will configure the workflow together and view the resulting task in the HydroServer Web Dashboard. You can use the complete example after the training to implement automated data ingestion on a deployed HydroServer instance.
+
+### Access Exercise 5
+
+The exercise is provided as a **Jupyter Notebook** and can be opened using Google Colab.
+
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise5/HydroServer_Exercise5.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise5/HydroServer_Exercise5.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise5/HydroServer_Exercise5.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 5](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise5/HydroServer_Exercise5.ipynb)
+
+If you do not have a Google account, you can access the exercise through Binder:
+
+👉 [**Access Exercise 5 with Binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+
+**Congratulations! After completing the exercises and reviewing the training materials, you have successfully completed your HydroServer training!** 🎉
