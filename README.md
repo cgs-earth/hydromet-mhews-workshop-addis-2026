@@ -89,7 +89,11 @@ The presentation below provides instructions for the interactive exercise.
 [Access the Session 2 presentation]()
 
 
-## 🍽️ Lunch Break — 12:30 – 13:45
+<hr style="border: 0; height: 1px; background: #e5e7eb; margin-top: 20px; margin-bottom: 20px;">
+
+### 🍽️ Lunch Break — 12:30 – 13:45
+
+<hr style="border: 0; height: 1px; background: #e5e7eb; margin-top: 20px; margin-bottom: 25px;">
 
 
 ## Session 3 - Guest Presentation and Preparation for Day 2
