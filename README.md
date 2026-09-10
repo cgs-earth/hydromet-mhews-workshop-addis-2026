@@ -155,7 +155,7 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 
 ### Presentation
 
-[Access the Session 8 presentation]([https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit](https://canva.link/j52i14owqbc8fca))
+[Access the Session 8 presentation](https://www.canva.com/design/DAHUup16Hz8/YJ73gV88Ga6_QcsegZ2WKQ/edit](https://canva.link/j52i14owqbc8fca)
 
 ### ☕ Break — 10:40 – 11:00
 
