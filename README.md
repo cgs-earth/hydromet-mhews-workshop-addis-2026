@@ -56,7 +56,7 @@ Develop country-specific roadmaps identifying the technical, operational, and in
 
 This repository contains the presentations and supporting resources used during the workshop, allowing participants to access the materials both during and after the training.
 
-#DAY 1 - September 14, 2026
+# Day 1 — September 14, 2026
 
 ## Session 2 —  Group activity on hydrometeorological data flow.
 
@@ -73,6 +73,9 @@ The presentation below provides instructions for the interactive exercise.
 
 [Access the Session 2 presentation]()
 
+# Day 2 — September 15, 2026
+
+# Day 3 — September 16, 2026
 
 ### Presentation
 
