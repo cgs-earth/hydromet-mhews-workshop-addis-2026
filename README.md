@@ -81,3 +81,18 @@ The session will also provide time for discussion, allowing participants to iden
 ### Presentation
 
 [Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
+
+
+## Session 10 — Refining Your Pilot for MHEWS Under El Niño
+
+**Date:** September 16, 2026  
+**Time:** 13:45 – 15:15   
+
+This interactive session gives participants dedicated time to **refine their country-specific pilot use cases**, building on the technical training and discussions from the previous sessions. Participants will focus on a **priority dataset**, map how the data will move through existing systems and HydroServer and/or WIS2Box, and consider whether the proposed workflow can deliver the information needed by a **priority user**. :contentReference[oaicite:0]{index=0}
+
+Participants will then **stress-test their pilot using a high-impact rainfall event in an El Niño year**, identifying potential weaknesses in the proposed workflow and determining what should be tested or changed. The exercise concludes with participants revising their pilot based on what they have learned and considering the practical steps needed for implementation. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+
+
+### Presentation
+
+[Access the Session 9 presentation](https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit)
