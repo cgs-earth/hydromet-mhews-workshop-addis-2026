@@ -194,6 +194,17 @@ The presentation below provides instructions for the interactive exercise.
 
 ### ☕ Break — 15:15 – 15:35
 
+## Session 11 - From Operational Workflows to Pilot Implementation Roadmaps
+
+**Date:** September 17, 2026  
+**Time:** 13:45 – 15:15  
+
+This interactive session will bring together the **lessons learned throughout the workshop** and translate them into practical next steps for each country pilot. Participants will refine their pilot plans, identify **integration, deployment, and data-ingestion needs**, and develop a **country-specific pilot implementation roadmap**.
+
+Participants will also discuss **shared lessons, next steps after the workshop, and opportunities for continued collaboration**.
+
+**After the workshop, we will share the discussion notes with participants.**
+
 <br>
 
 ---
