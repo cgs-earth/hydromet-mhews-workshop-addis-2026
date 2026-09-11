@@ -100,7 +100,7 @@ The session will also include insights from **Dr. Okoth Kabaka** ([IGAD Climate 
 
 This interactive session will give participants an opportunity to **reflect on their current hydrometeorological data systems**. Working in breakout groups, participants will map their current data workflows, from **data collection and transmission to storage, processing, sharing, and use**, and discuss **what is working well, where challenges or vulnerabilities exist, and what they would most like to improve**.
 
-The presentation below provides instructions for the interactive exercise. A [worksheet](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Session_2_Consultation_Debrief_Worksheet.docx) is available to guide the discussion and capture the main points. Each group will conclude by identifying **one key observation** from their discussion.
+The presentation below provides instructions for the interactive exercise. A [worksheet](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Session_2_Consultation_Debrief_Worksheet.docx) is available to guide the discussion and capture the main points. **A printed copy of the worksheet will also be provided during the session.** Each group will conclude by identifying **one key observation** from their discussion.
 
 The session will conclude with a group discussion to identify **common patterns, challenges, and opportunities across countries**.
 
