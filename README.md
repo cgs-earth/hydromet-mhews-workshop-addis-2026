@@ -101,6 +101,7 @@ The session will also include insights from **Dr. Okoth Kabaka** ([IGAD Climate 
 
 **Date:** September 14, 2026  
 **Time:** 13:45 – 15:15  
+**Presenters:** Ms. Emily DuBois, Dr. Caroline Staub 
 
 This interactive session will give participants an opportunity to **reflect on their current hydrometeorological data systems**. Working in breakout groups, participants will map their current data workflows, from **data collection and transmission to storage, processing, sharing, and use**, and discuss **what is working well, where challenges or vulnerabilities exist, and what they would most like to improve**.
 
@@ -136,7 +137,9 @@ After, participants will check that they can access their [HydroServer accounts]
 ## Sessions 4a–7a — HydroServer Training
 
 **Date:** September 15, 2026  
-**Time:** 08:00–17:30  
+**Time:** 08:00–17:30 
+**HydroServer Trainers:** Dr. Sara Alonso Vicario, Ms. Emily DuBois
+**wis2box Trainers:** Peter Mutai
 
 These sessions introduce participants to **HydroServer** through a combination of presentations and hands-on exercises. Participants will learn how to manage hydrological monitoring data in HydroServer, including loading historical and real-time data, performing quality control, and retrieving data programmatically. The sessions will also explore automated data ingestion and job orchestration, both within HydroServer and through external tools and workflows.
 
@@ -155,7 +158,8 @@ These sessions introduce participants to **HydroServer** through a combination o
 ## Session 8 — HydroServer–WIS2Box Data Workflows and Data Readiness for the Pilot
 
 **Date:** September 16, 2026  
-**Time:** 09:00–10:40  
+**Time:** 09:00–10:40
+**Presenters:** Dr. Washington Otieno, Dr. Sara Alonso Vicario
 
 This session explores potential **HydroServer–WIS2Box data workflows** and assesses **manual and telemetry data readiness** to support the development and refinement of country-specific pilot use cases. It introduces **key considerations for successful manual and telemetry data ingestion**, providing countries with a checklist of points to consider when planning and implementing their data ingestion workflows.
 
@@ -168,7 +172,8 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 ## Session 9 - Working with Existing and New Environmental Data Management Systems
 
 **Date:** September 16, 2026  
-**Time:** 11:00–12:30  
+**Time:** 11:00–12:30
+**Presenters:** Dr. Sara Alonso Vicario
 
 This session explores some of the **meteorological and hydrological data management systems currently used by participating countries**. We will look at potential data integration workflows, including examples of **AQUARIUS-HydroServer** and **Climsoft-WIS2Box** integration.
 
@@ -186,13 +191,14 @@ The session will also include a presentation from **Dr. Jemal S. Ahmed (CIAT)**.
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
 **Date:** September 16, 2026  
-**Time:** 13:45 – 15:15   
+**Time:** 13:45 – 15:15
+**Presenters:** Ms. Emily DuBois, Dr. Caroline Staub 
 
-This interactive session gives participants dedicated time to **continue developing and refining their country-specific pilot use cases**, building on the technical training and discussions from the workshop. Participants will focus on a **priority dataset** and design a simple data workflow showing how their existing systems and **HydroServer and/or WIS2Box** could work together as part of the pilot.
+This interactive session gives participants dedicated time to **continue developing and refining their country-specific pilot use cases**, building on the technical training and discussions from the workshop. Participants will focus on a **priority dataset** and design a simple data workflow showing how their existing systems and **HydroServer and/or wis2box** could work together as part of the pilot.
 
 Participants will then consider the needs of a **priority user** and assess whether the proposed pilot can provide the information they need in time to support decision-making. Finally, they will **stress-test the pilot using a high-impact rainfall event during an El Niño year**, identify potential weaknesses in the workflow, and revise the pilot based on what they have learned during the workshop.
 
-The presentation below provides instructions for the interactive exercise.
+The presentation below provides instructions for the interactive exercise. A [worksheet](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Session_10_Refining_Your_Pilot_Worksheet.docx) is available to guide the discussion and capture the main points. **A printed copy of the worksheet will also be provided during the session.** Participants will use the worksheet to refine their pilot around **one priority dataset, one priority user, and one high-impact rainfall scenario**.
 
 ### Presentation
 
@@ -203,7 +209,9 @@ The presentation below provides instructions for the interactive exercise.
 ## Session 11 - From Operational Workflows to Pilot Implementation Roadmaps
 
 **Date:** September 17, 2026  
-**Time:** 13:45 – 15:15  
+**Time:** 13:45 – 15:15
+**Presenters:** Dr. Caroline Staub, Ms. Emily DuBois  
+
 
 This interactive session will bring together the **lessons learned throughout the workshop** and translate them into practical next steps for each country pilot. Participants will refine their pilot plans, identify **integration, deployment, and data-ingestion needs**, and develop a **country-specific pilot implementation roadmap**.
 
@@ -225,6 +233,7 @@ You can access the Pilot Revision Worksheet for guidance [here](https://github.c
 
 **Date:** September 17, 2026  
 **Time:** 09:00 – 12:30 *(with a coffee break from 10:40 – 11:00)*
+**Presenters:** Dr. Washington Otieno
 
 These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
 
@@ -243,5 +252,5 @@ These discussion-based sessions will focus on the **long-term sustainability and
 **Closing remarks by:**
 
 - **Mr. Washington Otieno**, WMO Regional Office for Africa
-- **Mr. Habtemariam Tilahun**, Hydrology and Basin Information
+- **Mr. Habtemariam Tilahun**, Ethiopia Minster of Water and Energy (MOWE)
 - **Dr. Fetene Teshome**, Ethiopian Meteorological Institute (EMI)
