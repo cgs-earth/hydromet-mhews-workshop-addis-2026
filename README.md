@@ -91,7 +91,8 @@ This repository contains the presentations and supporting resources used during 
 ## Session 1 - Multi-Hazard Early Warning Systems (MHEWS): Objectives, Workflows, and Operational Challenges
 
 **Date:** September 14, 2026  
-**Time:** 11:00 – 12:30  
+**Time:** 11:00 – 12:30
+**Presenters:** Mr. Zablon Shilenje, Mr. Washington Otieno 
 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
 
@@ -161,7 +162,7 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 **Date:** September 16, 2026  
 **Time:** 09:00–10:40
-**Presenters:** Dr. Washington Otieno, Dr. Sara Alonso Vicario
+**Presenters:** Mr. Washington Otieno, Dr. Sara Alonso Vicario
 
 This session explores potential **HydroServer–WIS2Box data workflows** and assesses **manual and telemetry data readiness** to support the development and refinement of country-specific pilot use cases. It introduces **key considerations for successful manual and telemetry data ingestion**, providing countries with a checklist of points to consider when planning and implementing their data ingestion workflows.
 
@@ -235,7 +236,7 @@ You can access the Pilot Revision Worksheet for guidance [here](https://github.c
 
 **Date:** September 17, 2026  
 **Time:** 09:00 – 12:30 *(with a coffee break from 10:40 – 11:00)*
-**Presenters:** Dr. Washington Otieno
+**Presenters:** Mr. Washington Otieno
 
 These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
 
