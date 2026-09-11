@@ -76,7 +76,9 @@ This repository contains the presentations and supporting resources used during 
 
 - **Partner and delegation introductions**
 
-- **Key outcomes and lessons from the Entebbe workshop and follow-up consultations**
+- **Key outcomes and lessons learned from the Entebbe workshop held in April 2026.**
+
+- **Brief summary of the online consultations held with the participating countries between July and August 2026 to discuss their pilot projects.**
 
 - **Workshop agenda and objectives**
 
@@ -96,15 +98,15 @@ The session will also include insights from **Dr. Okoth Kabaka** ([IGAD Climate 
 **Date:** September 14, 2026  
 **Time:** 13:45 – 15:15  
 
-This interactive session will give participants an opportunity to **reflect on their current hydrometeorological data systems**. Participants will map where they work within the data flow-from **data collection and transmission to storage, processing, sharing, and use**-and identify where they see the **greatest opportunities for improvement** and the **main challenges, delays, or vulnerabilities**.
+This interactive session will give participants an opportunity to **reflect on their current hydrometeorological data systems**. Working in breakout groups, participants will map their current data workflows, from **data collection and transmission to storage, processing, sharing, and use**, and discuss **what is working well, where challenges or vulnerabilities exist, and what they would most like to improve**.
 
-The session will conclude with a group discussion to identify **common patterns, challenges, and opportunities across countries**. 
+The presentation below provides instructions for the interactive exercise. A [worksheet](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Session_2_Consultation_Debrief_Worksheet.docx) is available to guide the discussion and capture the main points. Each group will conclude by identifying **one key observation** from their discussion.
 
-The presentation below provides instructions for the interactive exercise.
+The session will conclude with a group discussion to identify **common patterns, challenges, and opportunities across countries**.
 
 ### Presentation
 
-[Access the Session 2 presentation]()
+[Access the Session 2 presentation](https://canva.link/vqqos6hjxcibkf6)
 
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
