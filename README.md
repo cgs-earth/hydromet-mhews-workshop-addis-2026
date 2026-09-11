@@ -49,10 +49,10 @@ Develop country-specific roadmaps identifying the technical, operational, and in
 
 ## Participating Countries
 
-- 🇪🇹 Ethiopia
-- 🇰🇪 Kenya
-- 🇷🇼 Rwanda
-- 🇺🇬 Uganda
+- <img src="https://flagcdn.com/w20/et.png" width="20"> Ethiopia
+- <img src="https://flagcdn.com/w20/ke.png" width="20"> Kenya
+- <img src="https://flagcdn.com/w20/rw.png" width="20"> Rwanda
+- <img src="https://flagcdn.com/w20/ug.png" width="20"> Uganda
 
 ## Workshop Materials
 
