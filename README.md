@@ -82,6 +82,10 @@ This repository contains the presentations and supporting resources used during 
 
 - **Workshop agenda and objectives**
 
+### Presentation
+
+[Access the presentation](https://canva.link/pyylfkl61v8tdtn)
+
 ## Session 1 - Multi-Hazard Early Warning Systems (MHEWS): Objectives, Workflows, and Operational Challenges
 
 **Date:** September 14, 2026  
@@ -106,7 +110,7 @@ The session will conclude with a group discussion to identify **common patterns,
 
 ### Presentation
 
-[Access the Session 2 presentation](https://canva.link/vqqos6hjxcibkf6)
+[Access the Session 2 presentation](https://canva.link/ygn47ycyshsn5ly)
 
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
@@ -192,7 +196,7 @@ The presentation below provides instructions for the interactive exercise.
 
 ### Presentation
 
-[Access the Session 10 presentation]([https://www.canva.com/design/DAHUb9mHeug/fXCjOjuSf2tNWhEqWACoAg/edit](https://canva.link/kgjql549mjjlv01))
+[Access the Session 10 presentation](https://canva.link/kgjql549mjjlv01)
 
 ### ☕ Break — 15:15 – 15:35
 
