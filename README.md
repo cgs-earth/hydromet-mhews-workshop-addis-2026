@@ -13,6 +13,8 @@ Ahead of the workshop, country focal points worked on designing pilot use cases 
 
 A key focus of the workshop will be to continue developing and refining these country-specific pilot use cases, exploring how HydroServer and WIS2Box could be integrated with existing systems and operational workflows. Participants will also have dedicated time to work together, share experiences and challenges, and identify practical next steps for implementing their pilot use cases, should they choose to move forward after the workshop.
 
+This work is organized by the Center for Geospatial Solutions, part of the Lincoln Institute of Land Policy, in collaboration with the World Meteorological Organization.
+
 ## Workshop Objectives
 
 The workshop aims to support participating NMHSs in defining practical pathways toward **country-owned, interoperable hydrometeorological data workflows**.
