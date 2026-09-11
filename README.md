@@ -49,10 +49,10 @@ Develop country-specific roadmaps identifying the technical, operational, and in
 
 ## Participating Countries
 
-- Ethiopia
-- Kenya
-- Rwanda
-- Uganda
+- 🇪🇹 Ethiopia
+- 🇰🇪 Kenya
+- 🇷🇼 Rwanda
+- 🇺🇬 Uganda
 
 ## Workshop Materials
 
