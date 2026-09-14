@@ -92,6 +92,7 @@ This repository contains the presentations and supporting resources used during 
 
 **Date:** September 14, 2026  
 **Time:** 11:00 – 12:30
+
 **Presenters:** Mr. Zablon Shilenje, Mr. Washington Otieno 
 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
