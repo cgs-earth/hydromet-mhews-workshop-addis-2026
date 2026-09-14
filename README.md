@@ -86,7 +86,7 @@ This repository contains the presentations and supporting resources used during 
 
 ### Presentation
 
-[Access the presentation](https://canva.link/pyylfkl61v8tdtn)
+[Access the presentation](https://canva.link/wztwk7pcmsnk5fv)
 
 ## Session 1 - Multi-Hazard Early Warning Systems (MHEWS): Objectives, Workflows, and Operational Challenges
 
