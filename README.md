@@ -96,6 +96,8 @@ This repository contains the presentations and supporting resources used during 
 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
 
+You can access the presentation of Mr. Washington Otieno about WMO Data Interoperability Standardization and Exchange [here](https://canva.link/a2wk7j5o73o3f9c)
+
 The session will also include insights from **Dr. Okoth Kabaka** ([IGAD Climate Prediction and Applications Centre – ICPAC](https://www.icpac.net/)). You can access [here](https://canva.link/rjvo3lh7ycf2rlm)
 the presentation from Dr. Kabaka.
 ### ☕ Break — 10:40 – 11:00  
