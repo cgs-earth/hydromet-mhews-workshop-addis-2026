@@ -217,7 +217,7 @@ The presentation below provides instructions for the interactive exercise. A [wo
 ## Session 11 - From Operational Workflows to Pilot Implementation Roadmaps
 
 **Date:** September 17, 2026  
-**Time:** 13:45 – 15:15
+**Time:** 13:45 – 15:15  
 **Presenters:** Dr. Caroline Staub, Ms. Emily DuBois  
 
 
@@ -240,7 +240,7 @@ You can access the Pilot Revision Worksheet for guidance [here](https://github.c
 ## Sessions 12 & 13 - Discussion: Long-Term Sustainability and Scalability
 
 **Date:** September 17, 2026  
-**Time:** 09:00 – 12:30 *(with a coffee break from 10:40 – 11:00)*
+**Time:** 09:00 – 12:30 *(with a coffee break from 10:40 – 11:00)*  
 **Presenters:** Mr. Washington Otieno
 
 These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
