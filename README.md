@@ -171,7 +171,7 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 This session explores potential **HydroServer–WIS2Box data workflows** and assesses **manual and telemetry data readiness** to support the development and refinement of country-specific pilot use cases. It introduces **key considerations for successful manual and telemetry data ingestion**, providing countries with a checklist of points to consider when planning and implementing their data ingestion workflows.
 
- Mr. Alain Gerard Amahoro from the Nile Basin Initiative (NBI) gave a presentation about its experience on implementing Hydroserver. You can access the presentation [here](https://www.canva.com/design/DAHVXLjh6Q0/baggGUA4-6wrYsbX5YbRlw/edit) 
+ **Mr. Alain Gerard Amahoro** from the Nile Basin Initiative (NBI) gave a presentation about its experience on implementing Hydroserver. You can access the presentation [here](https://www.canva.com/design/DAHVXLjh6Q0/baggGUA4-6wrYsbX5YbRlw/edit) 
 
 ### Presentation
 
