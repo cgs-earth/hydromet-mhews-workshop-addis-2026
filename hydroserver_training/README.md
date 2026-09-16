@@ -12,7 +12,7 @@ These training materials were developed by **Sara Alonso Vicario** at the **Cent
 
 The training will consist of a **presentation followed by interactive, hands-on exercises** that we will work through together during the session. 
 
-The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package. You can learn more about hydroserverpy in the [official documentation](https://pypi.org/project/hydroserverpy/)
+The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package. You can learn more about hydroserverpy in the [official documentation](https://pypi.org/project/hydroserverpy/). You can read about the HydroServer Sensorthings API [here](https://lro.hydroserver.org/api/sensorthings/v1.1/docs).
 
 In this repository, each country has its own folder containing subfolders for Exercises 1 through 5. Each exercise folder includes the Python code and, when applicable, the sample data needed to complete the exercise.
 
