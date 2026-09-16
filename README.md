@@ -153,6 +153,8 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 [Access the HydroServer Training Materials](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/hydroserver_training)
 
+[Access the wis2box Training Materials](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/wis2box_training)
+
 <br>
 
 ---
