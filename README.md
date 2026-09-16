@@ -1,3 +1,4 @@
+
 # Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems
 
 **Follow-On Peer-to-Peer Technical Workshop**  
@@ -168,6 +169,8 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 This session explores potential **HydroServer–WIS2Box data workflows** and assesses **manual and telemetry data readiness** to support the development and refinement of country-specific pilot use cases. It introduces **key considerations for successful manual and telemetry data ingestion**, providing countries with a checklist of points to consider when planning and implementing their data ingestion workflows.
 
+ Mr. Alain Gerard Amahoro from the Nile Basin Initiative (NBI) gave a presentation about its experience on implementing Hydroserver. You can access the presentation [here](https://www.canva.com/design/DAHVXLjh6Q0/baggGUA4-6wrYsbX5YbRlw/edit) 
+
 ### Presentation
 
 [Access the Session 8 presentation](https://canva.link/j52i14owqbc8fca)
@@ -183,8 +186,6 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 This session explores some of the **meteorological and hydrological data management systems currently used by participating countries**. We will look at potential data integration workflows, including examples of **AQUARIUS-HydroServer** and **Climsoft-WIS2Box** integration.
 
 The session will also provide time for discussion, allowing participants to identify the **data sources, integration needs, and potential challenges** they anticipate when connecting HydroServer and WIS2Box with their existing data management systems.
-
-The session will also include a presentation from **Dr. Jemal S. Ahmed (CIAT)**.
 
 ### Presentation
 
