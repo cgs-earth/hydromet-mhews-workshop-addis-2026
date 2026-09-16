@@ -167,7 +167,7 @@ These sessions introduce participants to **HydroServer** through a combination o
 
 **Date:** September 16, 2026  
 **Time:** 09:00–10:40  
-**Presenters:** Mr. Washington Otieno, Dr. Sara Alonso Vicario
+**Presenters:** Dr. Sara Alonso Vicario, Mr. Washington Otieno
 
 This session explores potential **HydroServer–WIS2Box data workflows** and assesses **manual and telemetry data readiness** to support the development and refinement of country-specific pilot use cases. It introduces **key considerations for successful manual and telemetry data ingestion**, providing countries with a checklist of points to consider when planning and implementing their data ingestion workflows.
 
@@ -182,8 +182,8 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 ## Session 9 - Working with Existing and New Environmental Data Management Systems
 
 **Date:** September 16, 2026  
-**Time:** 11:00–12:30
-**Presenters:** Dr. Sara Alonso Vicario
+**Time:** 11:00–12:30  
+**Presenters:** Dr. Sara Alonso Vicario, Mr. Washington Otieno
 
 This session explores some of the **meteorological and hydrological data management systems currently used by participating countries**. We will look at potential data integration workflows, including examples of **AQUARIUS-HydroServer** and **Climsoft-WIS2Box** integration.
 
