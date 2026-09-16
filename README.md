@@ -199,7 +199,7 @@ The session will also provide time for discussion, allowing participants to iden
 ## Session 10 - Refining Your Pilot for MHEWS Under El Niño
 
 **Date:** September 16, 2026  
-**Time:** 13:45 – 15:15
+**Time:** 13:45 – 15:15  
 **Presenters:** Ms. Emily DuBois, Dr. Caroline Staub 
 
 This interactive session gives participants dedicated time to **continue developing and refining their country-specific pilot use cases**, building on the technical training and discussions from the workshop. Participants will focus on a **priority dataset** and design a simple data workflow showing how their existing systems and **HydroServer and/or wis2box** could work together as part of the pilot.
