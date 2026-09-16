@@ -124,7 +124,7 @@ The session will conclude with a group discussion to identify **common patterns,
 
 ## Session 3 - Guest Presentation and Preparation for Day 2
 
-**Date:** September 14, 2026
+**Date:** September 14, 2026  
 **Time:** 15:35 – 17:00   
 
 This session will include a guest presentation by **Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. 
@@ -163,7 +163,7 @@ These sessions introduce participants to **HydroServer** through a combination o
 ## Session 8 — HydroServer–WIS2Box Data Workflows and Data Readiness for the Pilot
 
 **Date:** September 16, 2026  
-**Time:** 09:00–10:40
+**Time:** 09:00–10:40  
 **Presenters:** Mr. Washington Otieno, Dr. Sara Alonso Vicario
 
 This session explores potential **HydroServer–WIS2Box data workflows** and assesses **manual and telemetry data readiness** to support the development and refinement of country-specific pilot use cases. It introduces **key considerations for successful manual and telemetry data ingestion**, providing countries with a checklist of points to consider when planning and implementing their data ingestion workflows.
