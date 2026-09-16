@@ -142,9 +142,9 @@ After, participants will check that they can access their [HydroServer accounts]
 ## Sessions 4a–7a — HydroServer Training
 
 **Date:** September 15, 2026  
-**Time:** 08:00–17:30 
-**HydroServer Trainers:** Dr. Sara Alonso Vicario, Ms. Emily DuBois
-**wis2box Trainers:** Peter Mutai
+**Time:** 08:00–17:30  
+**HydroServer Trainers:** Dr. Sara Alonso Vicario, Ms. Emily DuBois  
+**WIS2Box Trainers:** Peter Mutai  
 
 These sessions introduce participants to **HydroServer** through a combination of presentations and hands-on exercises. Participants will learn how to manage hydrological monitoring data in HydroServer, including loading historical and real-time data, performing quality control, and retrieving data programmatically. The sessions will also explore automated data ingestion and job orchestration, both within HydroServer and through external tools and workflows.
 
