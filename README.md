@@ -91,7 +91,7 @@ This repository contains the presentations and supporting resources used during 
 ## Session 1 - Multi-Hazard Early Warning Systems (MHEWS): Objectives, Workflows, and Operational Challenges
 
 **Date:** September 14, 2026  
-**Time:** 11:00 – 12:30
+**Time:** 11:00 – 12:30  
 **Presenters:** Mr. Zablon Shilenje, Mr. Washington Otieno 
 
 This session introduces **Multi-Hazard Early Warning Systems (MHEWS)** and explores their objectives, workflows, and common operational challenges. Participants will discuss **bottlenecks in the dissemination of early warning information** and the role of **open standards, open-source technologies, and interoperability** in strengthening data exchange and operational workflows.
@@ -105,7 +105,7 @@ the presentation from Dr. Kabaka.
 ## Session 2 -  Group activity on hydrometeorological data flow
 
 **Date:** September 14, 2026  
-**Time:** 13:45 – 15:15  
+**Time:** 13:45 – 15:15    
 **Presenters:** Ms. Emily DuBois, Dr. Caroline Staub 
 
 This interactive session will give participants an opportunity to **reflect on their current hydrometeorological data systems**. Working in breakout groups, participants will map their current data workflows, from **data collection and transmission to storage, processing, sharing, and use**, and discuss **what is working well, where challenges or vulnerabilities exist, and what they would most like to improve**.
