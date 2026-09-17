@@ -142,14 +142,16 @@ After, participants will check that they can access their [HydroServer accounts]
 
 # Day 2  - September 15, 2026
 
-## Sessions 4a–7a — HydroServer Training
+## Sessions 4a–7a — HydroServer Training and Sessions 4b–7b — wis2box Training
 
 **Date:** September 15, 2026  
 **Time:** 08:00–17:30  
 **HydroServer Trainers:** Dr. Sara Alonso Vicario, Ms. Emily DuBois  
 **WIS2Box Trainers:** Peter Mutai  
 
-These sessions introduce participants to **HydroServer** through a combination of presentations and hands-on exercises. Participants will learn how to manage hydrological monitoring data in HydroServer, including loading historical and real-time data, performing quality control, and retrieving data programmatically. The sessions will also explore automated data ingestion and job orchestration, both within HydroServer and through external tools and workflows.
+These sessions introduce participants to **wis2box** and **HydroServer** through a combination of presentations and hands-on exercises. Participants will learn how to publish meteorological data in wis2box and manage hydrological monitoring data in HydroServer, including loading historical and real-time data, performing quality control, and retrieving data programmatically. The hydroserver training sessions will also explore automated data ingestion and job orchestration, both within HydroServer and through external tools and workflows.
+
+The training
 
 ### Training Materials
 
@@ -262,5 +264,5 @@ These discussion-based sessions will focus on the **long-term sustainability and
 **Closing remarks by:**
 
 - **Mr. Washington Otieno**, WMO Regional Office for Africa
-- **Mr. Habtemariam Tilahun**, Ethiopia Minster of Water and Energy (MOWE)
+- **Mr. Habtemariam Tilahun**, Ethiopia Minister of Water and Energy (MOWE)
 - **Dr. Fetene Teshome**, Ethiopian Meteorological Institute (EMI)
