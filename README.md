@@ -249,7 +249,7 @@ You can access the Pilot Revision Worksheet for guidance [here](https://github.c
 **Time:** 09:00 – 12:30 *(with a coffee break from 10:40 – 11:00)*  
 **Presenters:** Mr. Washington Otieno
 
-These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop.
+These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop. You can find the questions to guide the discussion and the table participants will need to complete during these sessions [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Sustainability%20Discussion_11_copies.docx)
 
 **After the workshop, we will share the discussion notes with participants.**
 
