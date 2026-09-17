@@ -16,6 +16,8 @@ A key focus of the workshop will be to continue developing and refining these co
 
 This work is organized by the Center for Geospatial Solutions, part of the Lincoln Institute of Land Policy, in collaboration with the World Meteorological Organization. You can find the concept note of the workshop here
 
+You can see some of our social media engagement through the days in some our posts for [Day 1](https://www.linkedin.com/posts/center-for-geospatial-solutions_projectspotlight-projectspotlight-opendata-activity-7506079490884870146-ze1B?utm_source=share&utm_medium=member_desktop&rcm=ACoAABrrD9YB_pVPaqMNOHp2FZMO7SzmyHfh-Vw) and [Day 2](https://www.linkedin.com/posts/projectspotlight-projectspotlight-opendata-ugcPost-7506072355232935936-vTJ7/)
+
 ## Workshop Objectives
 
 The workshop aims to support participating NMHSs in defining practical pathways toward **country-owned, interoperable hydrometeorological data workflows**.
