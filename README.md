@@ -14,7 +14,7 @@ Ahead of the workshop, country focal points worked on designing pilot use cases 
 
 A key focus of the workshop will be to continue developing and refining these country-specific pilot use cases, exploring how HydroServer and WIS2Box could be integrated with existing systems and operational workflows. Participants will also have dedicated time to work together, share experiences and challenges, and identify practical next steps for implementing their pilot use cases, should they choose to move forward after the workshop.
 
-This work is organized by the Center for Geospatial Solutions, part of the Lincoln Institute of Land Policy, in collaboration with the World Meteorological Organization. You can find the concept note of the workshop (here)[https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/CGS_WMO_Follow%20on%20workshop%20(1).pdf]
+This work is organized by the Center for Geospatial Solutions, part of the Lincoln Institute of Land Policy, in collaboration with the World Meteorological Organization. You can find the concept note of the workshop [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/CGS_WMO_Follow%20on%20workshop%20(1).pdf)
 
 You can see some of the social media engagement throughout the workshop in our posts for [Day 1](https://www.linkedin.com/posts/center-for-geospatial-solutions_projectspotlight-projectspotlight-opendata-activity-7506079490884870146-ze1B?utm_source=share&utm_medium=member_desktop&rcm=ACoAABrrD9YB_pVPaqMNOHp2FZMO7SzmyHfh-Vw) and [Day 2](https://www.linkedin.com/posts/projectspotlight-projectspotlight-opendata-ugcPost-7506072355232935936-vTJ7/)
 
