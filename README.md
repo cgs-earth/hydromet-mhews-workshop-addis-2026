@@ -193,7 +193,9 @@ This session explores potential **HydroServer–WIS2Box data workflows** and ass
 
 This session explores some of the **meteorological and hydrological data management systems currently used by participating countries**. We will look at potential data integration workflows, including examples of **AQUARIUS-HydroServer** and **Climsoft-WIS2Box** integration.
 
-The session will also provide time for discussion, allowing participants to identify the **data sources, integration needs, and potential challenges** they anticipate when connecting HydroServer and WIS2Box with their existing data management systems.
+The session will also provide time for discussion, allowing participants to identify the **data sources, integration needs, and potential challenges** they anticipate when connecting HydroServer and WIS2Box with their existing data management systems. 
+
+Additionally, Mr. Washington Otieno will introduce WHOS a system of systems that supports interoperable hydrological data discoverability, harmonizes complex hydrological data, and provides a single point for accessing hydrology data and visualizing hydrological data. You can access the presentation of Mr. Washington Otieno [here](https://canva.link/q9tgs1pjrpymtxq)
 
 ### Presentation
 
