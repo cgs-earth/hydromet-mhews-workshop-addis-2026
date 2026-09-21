@@ -255,6 +255,8 @@ You can also find presentations delivered by some of the participating countries
 
 These discussion-based sessions will focus on the **long-term sustainability and scalability of the pilot**. Participants will discuss **ownership and governance, organizational roles and responsibilities, and capacity development**, considering what would be needed to support continued implementation beyond the workshop. You can find the questions to guide the discussion and the table participants will need to complete during these sessions [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Sustainability%20Discussion_11_copies.docx)
 
+You can also find tables outlining the short-, medium-, and long-term interventions proposed by participating countries to strengthen the governance, scalability, and sustainability of their pilot projects. Access the documents [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/session13_governance_and_sustainability).
+
 **After the workshop, we will share the discussion notes with participants.**
 
 ### 🍽️ Lunch Break — 12:30 – 13:45
