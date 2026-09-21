@@ -269,4 +269,4 @@ These discussion-based sessions will focus on the **long-term sustainability and
 - **Mr. Habtemariam Tilahun**, Ethiopia Minister of Water and Energy (MOWE)
 - **Dr. Fetene Teshome**, Ethiopian Meteorological Institute (EMI)
 
-You can read the key takeaways of this workshop and next steps [here]
+You can read the key takeaways of this workshop and next steps [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Addis_Key%20Takeaways%20and%20Next%20Steps.pdf)
