@@ -268,3 +268,5 @@ These discussion-based sessions will focus on the **long-term sustainability and
 - **Mr. Washington Otieno**, WMO Regional Office for Africa
 - **Mr. Habtemariam Tilahun**, Ethiopia Minister of Water and Energy (MOWE)
 - **Dr. Fetene Teshome**, Ethiopian Meteorological Institute (EMI)
+
+You can read the key takeaways of this workshop and next steps [here]
