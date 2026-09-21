@@ -235,6 +235,8 @@ Participants will also discuss **shared lessons, next steps after the workshop, 
 
 You can access the Pilot Revision Worksheet for guidance [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/Pilot_Revision_Worksheet.docx).
 
+You can also find presentations delivered by some of the participating countries, showcasing how they refined their pilot projects after completing the workshop training. Access the presentations [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/session11_refining_the_pilots)
+
 **After the workshop, we will share the discussion notes with participants.**
 
 <br>
