@@ -136,9 +136,9 @@ You can find some of the key findings presented by the groups [here](https://git
 **Date:** September 14, 2026  
 **Time:** 15:35 – 17:00   
 
-This session will include a guest presentation by **Mr. Mohammed Ali (WMO)**, followed by preparation for the **Day 2 technical training**. 
+This session will include a guest presentation by **Mr. Mohammed Ali (WMO)** about the project Water at the Heart of Climate Action. You can access the presentation [here](https://canva.link/rtfv8wlqs5jhrr6).
 
-After, participants will check that they can access their [HydroServer accounts](https://hydroserver.org/user-guides/how-to/creating-user-accounts.html) and Google accounts required for the HydroServer training. They will also open the training materials and exercise code to ensure everything is ready for the hands-on sessions the following day.
+In this session, we will also prepare for the **Day 2 technical training**. In this session, participants will check that they can access their [HydroServer accounts](https://hydroserver.org/user-guides/how-to/creating-user-accounts.html) and Google accounts required for the HydroServer training. They will also open the training materials and exercise code to ensure everything is ready for the hands-on sessions the following day.
 
 <br>
 
