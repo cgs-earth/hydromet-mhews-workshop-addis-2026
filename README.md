@@ -61,6 +61,10 @@ Develop country-specific roadmaps identifying the technical, operational, and in
 
 This repository contains the presentations and supporting resources used during the workshop, allowing participants to access the materials both during and after the training.
 
+## Takeaways
+
+The workshop takeaways can be found [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/takeaways/Addis_Key%20Takeaways%20and%20Next%20Steps.pdf)
+
 <br>
 
 ---
