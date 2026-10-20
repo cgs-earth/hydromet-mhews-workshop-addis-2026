@@ -146,6 +146,8 @@ If you do not have a google account, you can access the exercises through Binder
 
 👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
+You can access a guide to delete Resources in the HydroServer Playground [here](https://www.canva.com/design/DAHYHKlS9nc/NEhrYKStzrJk0H6H-yiiRA/edit)
+
 
 # Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control
 
