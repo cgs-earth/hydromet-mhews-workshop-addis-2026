@@ -33,7 +33,7 @@ Based on requests from participating countries, the next office hours session wi
 
 ### 1. Deleting Existing Resources from the HydroServer Playground
 
-There was a request from - 🇺🇬 Uganda about how to delete duplicate or unnecessary resources uploaded to their HydroServer training playgrounds during the workshop in Addis Ababa.
+There was a request from :flag_ug: Uganda about how to delete duplicate or unnecessary resources uploaded to their HydroServer training playgrounds during the workshop in Addis Ababa.
 
 This session will demonstrate how to identify and delete existing resources from HydroServer.
 
@@ -42,14 +42,14 @@ This session will demonstrate how to identify and delete existing resources from
 
 ### 2. Ingesting EUMETSAT Data into HydroServer
 
-- 🇺🇬 Uganda raised a question about how to ingest data received from EUMETSAT into HydroServer.
+:flag_ug: Uganda raised a question about how to ingest data received from EUMETSAT into HydroServer.
 
 The main challenge is decoding the messages transmitted by monitoring stations into usable hydrometeorological observations. This requires additional information about the station configuration and the format used to encode the measurements before exploring the option of ingesting this data to HydroServer.
 
 During the session, we will share updates on our investigation and discuss the information needed to decode the data.
 
 **Resource:**
-- [Presentation: How to Delete Resources from HydroServer](https://canva.link/e32li5xyjljbbnj)
+- [Presentation: Investigation of EUMETSAT Data](https://www.canva.com/design/DAHZUQ0T_t8/d5w0A2Xhgo3jA1TRNQN-GQ/edit)
 
 ## Continued Technical Support
 
