@@ -17,7 +17,7 @@ The CGS team also introduced opportunities for countries to become more actively
 
 **Resources:**
 - [Initial follow-up meeting presentation](https://canva.link/flt05lda78c8cmx)
-- [Notes from the October 15 and 22 meetings]()
+- [Notes from the October 15 and 22 meetings](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/post_workshop_office_hours/meeting_notes/Pilot%20check%20in%20-%20Meeting%20Notes.pdf)
 
 ## Office Hours Schedule
 
