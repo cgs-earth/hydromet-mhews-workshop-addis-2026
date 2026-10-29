@@ -72,13 +72,13 @@ Additional training materials and useful resources are available through the lin
 ## Wis2box Resources
 
 - [wis2box documentation — Version 1.3.0](https://docs.wis2box.wis.wmo.int/en/1.3.0/)
-- [wis2box training materials — Addis Ababa Workshop 2026](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/wis2box_training)
 - [WMO Free and Open Source Software Guide — Draft](https://wmo-im.github.io/wmo-foss-guide/guide/wmo-foss-guide-DRAFT.html#_wmo_members)
+- [wis2box training materials — Addis Ababa Workshop 2026](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/wis2box_training)
 
 ## HydroServer Resources
 
 - [Introduction to HydroServer](https://hydroserver.org/introduction/)
-- [HydroShare resource](https://www.hydroshare.org/resource/136c2bc6512540d59ce707bbd9c93e8a/)
+- [HydroServer Workshop: Managing and Sharing Hydrologic Observations — Tutorials and Example Notebooks](https://www.hydroshare.org/resource/136c2bc6512540d59ce707bbd9c93e8a/)
 - [HydroServer training materials — Addis Ababa Workshop 2026](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/hydroserver_training)
 
 <br>
