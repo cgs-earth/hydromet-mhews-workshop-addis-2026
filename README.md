@@ -65,6 +65,22 @@ This repository contains the presentations and supporting resources used during 
 
 The workshop takeaways can be found [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/takeaways/Addis_Key%20Takeaways%20and%20Next%20Steps.pdf)
 
+## After workshop:
+
+Additional training materials and useful resources are available through the links below.
+
+## Wis2box Resources
+
+- [wis2box documentation — Version 1.3.0](https://docs.wis2box.wis.wmo.int/en/1.3.0/)
+- [wis2box training materials — Addis Ababa Workshop 2026](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/wis2box_training)
+- [WMO Free and Open Source Software Guide — Draft](https://wmo-im.github.io/wmo-foss-guide/guide/wmo-foss-guide-DRAFT.html#_wmo_members)
+
+## HydroServer Resources
+
+- [Introduction to HydroServer](https://hydroserver.org/introduction/)
+- [HydroShare resource](https://www.hydroshare.org/resource/136c2bc6512540d59ce707bbd9c93e8a/)
+- [HydroServer training materials — Addis Ababa Workshop 2026](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/hydroserver_training)
+
 <br>
 
 ---
