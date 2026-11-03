@@ -72,8 +72,13 @@ Additional training materials and useful resources are available through the lin
 ## Wis2box Resources
 
 - [wis2box documentation — Version 1.3.0](https://docs.wis2box.wis.wmo.int/en/1.3.0/)
+- [wis2box training](https://training.wis2box.wis.wmo.int/)
 - [WMO Free and Open Source Software Guide — Draft](https://wmo-im.github.io/wmo-foss-guide/guide/wmo-foss-guide-DRAFT.html#_wmo_members)
 - [wis2box training materials — Addis Ababa Workshop 2026](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/wis2box_training)
+- [WIS2.0 moodle](https://etrp.wmo.int/course/index.php?categoryid=88)
+- [WIS2.0 Overview](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-information-system-wis/wis2-overview)
+
+
 
 ## HydroServer Resources
 
