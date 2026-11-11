@@ -21,7 +21,7 @@ The CGS team also introduced opportunities for countries to become more actively
 
 ## Office Hours Schedule
 
-Based on feedback from the participating countries, we agreed to hold **one-hour office hours every two weeks on Thursdays**.
+Based on feedback from the participating countries, we agreed to hold **one-hour office hours every two weeks on Thursdays**. We can also arrange a separate office hour for your country. To request a session, email us or send us a WhatsApp message.
 
 These sessions provide an open space for countries to discuss their progress, raise technical questions, share challenges, and receive support as they implement their pilot workflows.
 
