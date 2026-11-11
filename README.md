@@ -69,6 +69,10 @@ The workshop takeaways can be found [here](https://github.com/cgs-earth/hydromet
 
 Additional training materials and useful resources are available through the links below.
 
+## Post-workshop office hours
+
+We hold office hours every two weeks after the workshop. Visit the [office hours folder](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/tree/main/post_workshop_office_hours) for agendas, presentations, and guides.
+
 ## Wis2box Resources
 
 - [wis2box documentation — Version 1.3.0](https://docs.wis2box.wis.wmo.int/en/1.3.0/)
