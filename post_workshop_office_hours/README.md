@@ -59,7 +59,7 @@ Here’s the agenda for this office hour:
 - **Country updates:** Share progress and updates from participating countries.
 - **GitHub updates:** Review recent changes and show where to find office hour resources.
 - **Deleting resources in HydroServer:** Demonstrate how to delete workspaces and datastreams. See the [presentation on deleting HydroServer resources](https://canva.link/e32li5xyjljbbnj).
-- **Submitting GitHub issues:** Walk through a feature request example. See the [presentation on submitting feature requests for HydroServer or wis2box](https://canva.link/qi8465n8jsg36le) and the [detailed HydroServer guide](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/post_workshop_office_hours/guides/HydroServer%20feature%20request%20detailed%20guide.docx) for steps on reporting a bug, requesting a feature, or contributing code.
+- **Submitting GitHub issues:** Walk through a feature request example. See the [presentation on submitting feature requests for HydroServer or wis2box](https://canva.link/qi8465n8jsg36le) and the [detailed HydroServer guide](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/post_workshop_office_hours/guides/HydroServer%20feature%20request%20detailed%20guide.docx) for steps on reporting a bug, requesting a feature, or contributing code. You can find an example of a potential submission [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/post_workshop_office_hours/guides/Potential_feature_request.docx)
 - **Upcoming training support:** Discuss what support participating countries may need for their internal training sessions.
 
 ## Continued Technical Support
