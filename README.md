@@ -83,7 +83,7 @@ We hold office hours every two weeks after the workshop. Visit the [office hours
 - [WIS2.0 Overview](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-information-system-wis/wis2-overview)
 
 ## After Action Report
-The after action report of the workshop can be found [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/After%20Action%20Report_Peer-to-Peer%20Technical%20Workshop_Addis%20Ababa_September%202026.pdf)
+The action report post-workshop can be found [here](https://github.com/cgs-earth/hydromet-mhews-workshop-addis-2026/blob/main/materials/After%20Action%20Report_Peer-to-Peer%20Technical%20Workshop_Addis%20Ababa_September%202026.pdf)
 
 ## HydroServer Resources
 
